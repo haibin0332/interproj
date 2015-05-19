@@ -1,7 +1,5 @@
 # alchemyapi_python #
 
-A sdk for AlchemyAPI using Python
-
 
 ## AlchemyAPI ##
 
