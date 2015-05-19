@@ -1,7 +1,4 @@
-# alchemyapi_python #
-
-
-AlchemyAPI
+# AlchemyAPI
 
 http://www.alchemyapi.com
 
